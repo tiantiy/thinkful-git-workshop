@@ -51,6 +51,6 @@ ___
 [Joshua Rego](https://github.com/jdrego) <br/>
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
-[tiantiy](https://github.com/tiantiy/thinkful-git-workshop)<br/>
+[Tiantian](https://github.com/tiantiy/thinkful-git-workshop)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
